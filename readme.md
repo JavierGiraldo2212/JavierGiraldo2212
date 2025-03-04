@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">Lenguajes de Programación: Python, Java, C, C++, Matlab<br>Bases de Datos: MySQL, PostgreSQL, SQLite<br>Control de Versiones: Git, GitHub<br>Análisis y Visualización de Datos: Power BI, Power Query<br>Optimización y Simulación: Simulación de redes eléctricas, optimización de sistemas</p>
+<p align="left">Lenguajes de Programación: Python, Java, C, C++, Matlab<br>Bases de Datos: MySQL, PostgreSQL, SQLite<br>Control de Versiones: Git, GitHub<br>Análisis y Visualización de Datos: Power BI, Power Query<br>Optimización y Simulación: Simulación de redes eléctricas, optimización de sistemas (ATP simulator, LTspice,Mmatlab, Simscape)</p>
 
 ###
 
