@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Javier Santiago Giraldo Jiménez es ingeniero eléctrico y de sistemas de la Universidad Nacional de Colombia, con experiencia en desarrollo de software, análisis de datos y optimización de redes eléctricas. Ha trabajado como asistente de ingeniería y docente universitario, desarrollando herramientas para simulación de impactos eléctricos y optimización de redes. Posee habilidades en programación con Python, Java, C++, y en bases de datos como MySQL y PostgreSQL. Además, cuenta con experiencia en control de versiones con Git, análisis de datos con Power BI y simulaciones en Matlab. Ha sido reconocido con becas de excelencia académica y ha desarrollado proyectos innovadores como plataformas digitales y simuladores eléctricos. Apasionado por el aprendizaje de idiomas, la computación y el rendimiento deportivo.</p>
+<p align="left">Javier Santiago Giraldo Jiménez es ingeniero eléctrico y estudiante de ingeniería de sistemas de la Universidad Nacional de Colombia, con experiencia en desarrollo de software, análisis de datos y optimización de redes eléctricas. He trabajado como asistente de ingeniería y docente universitario, desarrollando herramientas para simulación de impactos eléctricos y optimización de redes. Poseo habilidades en programación con Python, Java, C++, y en bases de datos como MySQL y PostgreSQL. Además, cuento con experiencia en control de versiones con Git, análisis de datos con Power BI y simulaciones en Matlab.</p>
 
 ###
 
